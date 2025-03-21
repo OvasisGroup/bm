@@ -1,9 +1,12 @@
+import Hero from "@/components/Hero";
+import Image from "next/image";
 
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen py-2">
-      xvxvxcvx
-    </div>
+    <>
+    <Hero/>
+    <Image src='/SVG/bar.svg' alt='logo' width={1000} height={100} className='w-full' />
+    </>
   );
 }
