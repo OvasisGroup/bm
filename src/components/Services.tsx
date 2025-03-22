@@ -39,7 +39,7 @@ export default function Services() {
     <div className='container mx-auto py-10 md:px-0 px-6'>
         <div className='border-l-4 border-secondary pl-6'>
             <h1 className='md:text-4xl text-3xl font-bold text-primary'>Products & Services Offering</h1>
-        <p className='font-light text-3xl mt-4 text-black opacity-40'>Beyond Matrix Ltd is a highly diversified and integrated company providing specialised solutions in: Construction, Engineering & ICT infrastructure</p>
+        <p className='font-thin text-3xl mt-4 text-black opacity-70'>Beyond Matrix Ltd is a highly diversified and integrated company providing specialised solutions in: Construction, Engineering & ICT infrastructure</p>
         </div>
         <div className='my-10'>
             <div className='grid md:grid-cols-3 justify-start items-start gap-6'>

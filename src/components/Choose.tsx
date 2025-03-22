@@ -24,7 +24,7 @@ export default function Choose() {
     <div className='container mx-auto py-10 md:px-0 px-6'>
         <div className='border-l-4 border-secondary pl-6'>
             <h1 className='md:text-4xl text-3xl font-bold text-primary'>Choose Beyond Matrix</h1>
-        <p className='font-light text-3xl mt-4 text-black opacity-40'>Why choose Beyond Matrix when there are so many companies vying for business?</p>
+        <p className='font-thin text-3xl mt-4 text-black opacity-70'>Why choose Beyond Matrix when there are so many companies vying for business?</p>
         </div>
         <div className='my-10'>
             <div className='grid md:grid-cols-3 justify-start items-start gap-12'>

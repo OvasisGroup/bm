@@ -9,7 +9,7 @@ export default function Introduction() {
                 <div className='grid md:grid-cols-2 justify-center items-start gap-16'>
                     <div>
                     <Image src='/engineer.jpg' alt='logo' width={1000} height={100} className='w-full opacity-100 rounded-xl my-6' />
-                    <h2 className='text-3xl font-light text-white mb-6'>Everything we do is built on a commitment to add value to our customers, our people, and our community guided by. <span className='font-bold text-secondary'>Our Mission, Vision, and Values.</span></h2>
+                    <h2 className='text-3xl font-thin text-white mb-6'>Everything we do is built on a commitment to add value to our customers, our people, and our community guided by. <span className='font-bold text-secondary'>Our Mission, Vision, and Values.</span></h2>
 
                     </div>
                     <div>

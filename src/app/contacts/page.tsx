@@ -1,6 +1,7 @@
 "use client"; // Required for App Router
 
 
+import Choose from "@/components/Choose";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
@@ -99,6 +100,7 @@ export default function ContactForm() {
                     {status && <p className="mt-2 text-sm">{status}</p>}
                 </form>
             </section>
+            <Choose/>
         </section>
     );
 }
