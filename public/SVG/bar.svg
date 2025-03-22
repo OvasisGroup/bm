@@ -1,62 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1152.62 26.76">
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1115.5 26.8">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
   <defs>
     <style>
-      .cls-1 {
+      .st0 {
         fill: #d2ad2a;
       }
     </style>
   </defs>
-  <g id="Layer_1-2" data-name="Layer 1">
+  <g id="Layer_1-2">
     <g>
-      <polygon class="cls-1" points="18.96 26.75 0 0 37.92 0 18.96 26.75"/>
-      <polygon class="cls-1" points="42.83 .01 61.78 26.76 23.87 26.76 42.83 .01"/>
-      <polygon class="cls-1" points="66.39 26.75 47.43 0 85.34 0 66.39 26.75"/>
-      <polygon class="cls-1" points="90.25 .01 109.21 26.76 71.29 26.76 90.25 .01"/>
-      <polygon class="cls-1" points="113.81 26.75 94.86 0 132.77 0 113.81 26.75"/>
-      <polygon class="cls-1" points="137.68 .01 156.64 26.76 118.72 26.76 137.68 .01"/>
-      <polygon class="cls-1" points="161.24 26.75 142.28 0 180.2 0 161.24 26.75"/>
-      <polygon class="cls-1" points="185.11 .01 204.07 26.76 166.15 26.76 185.11 .01"/>
-      <polygon class="cls-1" points="208.67 26.75 189.71 0 227.63 0 208.67 26.75"/>
-      <polygon class="cls-1" points="232.54 .01 251.5 26.76 213.58 26.76 232.54 .01"/>
-      <polygon class="cls-1" points="256.1 26.75 237.14 0 275.06 0 256.1 26.75"/>
-      <polygon class="cls-1" points="279.96 .01 298.92 26.76 261.01 26.76 279.96 .01"/>
-      <polygon class="cls-1" points="303.53 26.75 284.57 0 322.48 0 303.53 26.75"/>
-      <polygon class="cls-1" points="327.39 .01 346.35 26.76 308.43 26.76 327.39 .01"/>
-      <polygon class="cls-1" points="350.95 26.75 332 0 369.91 0 350.95 26.75"/>
-      <polygon class="cls-1" points="374.82 .01 393.78 26.76 355.86 26.76 374.82 .01"/>
-      <polygon class="cls-1" points="398.38 26.75 379.42 0 417.34 0 398.38 26.75"/>
-      <polygon class="cls-1" points="422.25 .01 441.21 26.76 403.29 26.76 422.25 .01"/>
-      <polygon class="cls-1" points="445.81 26.75 426.85 0 464.77 0 445.81 26.75"/>
-      <polygon class="cls-1" points="469.68 .01 488.63 26.76 450.72 26.76 469.68 .01"/>
-      <polygon class="cls-1" points="493.24 26.75 474.28 0 512.2 0 493.24 26.75"/>
-      <polygon class="cls-1" points="517.1 .01 536.06 26.76 498.15 26.76 517.1 .01"/>
-      <polygon class="cls-1" points="540.66 26.75 521.71 0 559.62 0 540.66 26.75"/>
-      <polygon class="cls-1" points="564.53 .01 583.49 26.76 545.57 26.76 564.53 .01"/>
-      <polygon class="cls-1" points="588.09 26.75 569.13 0 607.05 0 588.09 26.75"/>
-      <polygon class="cls-1" points="611.96 .01 630.92 26.76 593 26.76 611.96 .01"/>
-      <polygon class="cls-1" points="635.52 26.75 616.56 0 654.48 0 635.52 26.75"/>
-      <polygon class="cls-1" points="659.39 .01 678.35 26.76 640.43 26.76 659.39 .01"/>
-      <polygon class="cls-1" points="682.95 26.75 663.99 0 701.91 0 682.95 26.75"/>
-      <polygon class="cls-1" points="706.82 .01 725.77 26.76 687.86 26.76 706.82 .01"/>
-      <polygon class="cls-1" points="730.38 26.75 711.42 0 749.33 0 730.38 26.75"/>
-      <polygon class="cls-1" points="754.24 .01 773.2 26.76 735.28 26.76 754.24 .01"/>
-      <polygon class="cls-1" points="777.8 26.75 758.85 0 796.76 0 777.8 26.75"/>
-      <polygon class="cls-1" points="801.67 .01 820.63 26.76 782.71 26.76 801.67 .01"/>
-      <polygon class="cls-1" points="825.23 26.75 806.27 0 844.19 0 825.23 26.75"/>
-      <polygon class="cls-1" points="849.1 .01 868.06 26.76 830.14 26.76 849.1 .01"/>
-      <polygon class="cls-1" points="872.66 26.75 853.7 0 891.62 0 872.66 26.75"/>
-      <polygon class="cls-1" points="896.53 .01 915.49 26.76 877.57 26.76 896.53 .01"/>
-      <polygon class="cls-1" points="920.09 26.75 901.13 0 939.05 0 920.09 26.75"/>
-      <polygon class="cls-1" points="943.95 .01 962.91 26.76 925 26.76 943.95 .01"/>
-      <polygon class="cls-1" points="967.52 26.75 948.56 0 986.47 0 967.52 26.75"/>
-      <polygon class="cls-1" points="991.38 .01 1010.34 26.76 972.42 26.76 991.38 .01"/>
-      <polygon class="cls-1" points="1014.94 26.75 995.99 0 1033.9 0 1014.94 26.75"/>
-      <polygon class="cls-1" points="1038.81 .01 1057.77 26.76 1019.85 26.76 1038.81 .01"/>
-      <polygon class="cls-1" points="1062.37 26.75 1043.41 0 1081.33 0 1062.37 26.75"/>
-      <polygon class="cls-1" points="1086.24 .01 1105.2 26.76 1067.28 26.76 1086.24 .01"/>
-      <polygon class="cls-1" points="1109.8 26.75 1090.84 0 1128.76 0 1109.8 26.75"/>
-      <polygon class="cls-1" points="1133.67 .01 1152.62 26.76 1114.71 26.76 1133.67 .01"/>
+      <polygon class="st0" points=".4 26.8 0 0 19.3 0 .4 26.8"/>
+      <polygon class="st0" points="24.2 0 43.2 26.8 5.3 26.8 24.2 0"/>
+      <polygon class="st0" points="47.8 26.8 28.8 0 66.8 0 47.8 26.8"/>
+      <polygon class="st0" points="71.7 0 90.6 26.8 52.7 26.8 71.7 0"/>
+      <polygon class="st0" points="95.2 26.8 76.3 0 114.2 0 95.2 26.8"/>
+      <polygon class="st0" points="119.1 0 138.1 26.8 100.1 26.8 119.1 0"/>
+      <polygon class="st0" points="142.7 26.8 123.7 0 161.6 0 142.7 26.8"/>
+      <polygon class="st0" points="166.5 0 185.5 26.8 147.6 26.8 166.5 0"/>
+      <polygon class="st0" points="190.1 26.8 171.1 0 209 0 190.1 26.8"/>
+      <polygon class="st0" points="214 0 232.9 26.8 195 26.8 214 0"/>
+      <polygon class="st0" points="237.5 26.8 218.6 0 256.5 0 237.5 26.8"/>
+      <polygon class="st0" points="261.4 0 280.3 26.8 242.4 26.8 261.4 0"/>
+      <polygon class="st0" points="284.9 26.8 266 0 303.9 0 284.9 26.8"/>
+      <polygon class="st0" points="308.8 0 327.8 26.8 289.8 26.8 308.8 0"/>
+      <polygon class="st0" points="332.4 26.8 313.4 0 351.3 0 332.4 26.8"/>
+      <polygon class="st0" points="356.2 0 375.2 26.8 337.3 26.8 356.2 0"/>
+      <polygon class="st0" points="379.8 26.8 360.8 0 398.8 0 379.8 26.8"/>
+      <polygon class="st0" points="403.7 0 422.6 26.8 384.7 26.8 403.7 0"/>
+      <polygon class="st0" points="427.2 26.8 408.3 0 446.2 0 427.2 26.8"/>
+      <polygon class="st0" points="451.1 0 470 26.8 432.1 26.8 451.1 0"/>
+      <polygon class="st0" points="474.7 26.8 455.7 0 493.6 0 474.7 26.8"/>
+      <polygon class="st0" points="498.5 0 517.5 26.8 479.6 26.8 498.5 0"/>
+      <polygon class="st0" points="522.1 26.8 503.1 0 541 0 522.1 26.8"/>
+      <polygon class="st0" points="545.9 0 564.9 26.8 527 26.8 545.9 0"/>
+      <polygon class="st0" points="569.5 26.8 550.5 0 588.5 0 569.5 26.8"/>
+      <polygon class="st0" points="593.4 0 612.3 26.8 574.4 26.8 593.4 0"/>
+      <polygon class="st0" points="616.9 26.8 598 0 635.9 0 616.9 26.8"/>
+      <polygon class="st0" points="640.8 0 659.8 26.8 621.8 26.8 640.8 0"/>
+      <polygon class="st0" points="664.4 26.8 645.4 0 683.3 0 664.4 26.8"/>
+      <polygon class="st0" points="688.2 0 707.2 26.8 669.3 26.8 688.2 0"/>
+      <polygon class="st0" points="711.8 26.8 692.8 0 730.7 0 711.8 26.8"/>
+      <polygon class="st0" points="735.7 0 754.6 26.8 716.7 26.8 735.7 0"/>
+      <polygon class="st0" points="759.2 26.8 740.3 0 778.2 0 759.2 26.8"/>
+      <polygon class="st0" points="783.1 0 802 26.8 764.1 26.8 783.1 0"/>
+      <polygon class="st0" points="806.6 26.8 787.7 0 825.6 0 806.6 26.8"/>
+      <polygon class="st0" points="830.5 0 849.5 26.8 811.6 26.8 830.5 0"/>
+      <polygon class="st0" points="854.1 26.8 835.1 0 873 0 854.1 26.8"/>
+      <polygon class="st0" points="877.9 0 896.9 26.8 859 26.8 877.9 0"/>
+      <polygon class="st0" points="901.5 26.8 882.5 0 920.5 0 901.5 26.8"/>
+      <polygon class="st0" points="925.4 0 944.3 26.8 906.4 26.8 925.4 0"/>
+      <polygon class="st0" points="948.9 26.8 930 0 967.9 0 948.9 26.8"/>
+      <polygon class="st0" points="972.8 0 991.8 26.8 953.8 26.8 972.8 0"/>
+      <polygon class="st0" points="996.4 26.8 977.4 0 1015.3 0 996.4 26.8"/>
+      <polygon class="st0" points="1020.2 0 1039.2 26.8 1001.3 26.8 1020.2 0"/>
+      <polygon class="st0" points="1043.8 26.8 1024.8 0 1062.7 0 1043.8 26.8"/>
+      <polygon class="st0" points="1067.7 0 1086.6 26.8 1048.7 26.8 1067.7 0"/>
+      <polygon class="st0" points="1091.2 26.8 1072.3 0 1110.2 0 1091.2 26.8"/>
+      <polygon class="st0" points="1115.1 0 1115 26.8 1096.1 26.8 1115.1 0"/>
     </g>
   </g>
 </svg>
