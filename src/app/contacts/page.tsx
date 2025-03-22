@@ -36,31 +36,31 @@ export default function ContactForm() {
 
     return (
         <section>
-            <section className="bg-[url('/assets/images/contacts.jpg')] bg-no-repeat bg-cover bg-center h-70 mt-20">
-            <div className="container mx-auto flex flex-col justify-center items-start text-white h-full px-4">
-                <h1 className="font-bold text-3xl md:text-4xl mb-4">Contact Us</h1>
-                <p>Home | Contacts </p>
-            </div>
-            </section>
+            <Image src={'/contacts.jpg'} alt='logo' width={1000} height={100} className='w-full opacity-100 mt-20' />
             <div className="container mx-auto px-4 py-8">
                 <div className='grid md:grid-cols-2 gap-4 justify-center items-center'>
                     <div className='flex flex-col justify-center items-start'>
-                        <small className='text-blue-600 font-black'>GET IN TOUCH</small>
-                        <h1 className='font-black md:text-4xl text-3xl md:max-w-md'>Need help? <br />Let us get
+                        <small className='text-primary font-black'>GET IN TOUCH</small>
+                        <h1 className='font-black md:text-4xl text-3xl md:max-w-md'>Need help? <br />Get
                             intouch</h1>
                     </div>
                     <div>
-                        <p>Banu helps small business owners like you streamline bookkeeping and income taxes with dedicated experts and user-friendly financial software—saving you time and money so you can focus on growing your business. Our Services Include:</p>
+                        <p>Beyond Matrix Ltd is a highly diversified and integrated company providing specialised solutions in: Construction, Engineering & ICT infrastructure</p>
                     </div>
                 </div>
             </div>
 
             <section className="container mx-auto px-4 py-8 grid md:grid-cols-2 gap-6">
                 <div className="md:mr-20">
-                    <Image src="/assets/images/conta.jpg" alt="logo" width={1920} height={100} className="rounded-3xl mb-4 mr-10"  />
-                    <h3 className="font-bold text-blue-600 text-2xl">Say Hello!</h3>
-                    <p>+1 (614) 285‑9445</p>
-                    <p>info@banubookkeeping.com</p>
+                    
+                    <h3 className="font-bold text-primary text-2xl">Say Hello!</h3>
+                    <Image src="/SVG/bm-logo.svg" alt="logo" width={150} height={100} className="my-4"  />
+                    
+            <p className=''>The Nextgen Mall, Mombasa Road</p>
+            <p className=''>P.O Box 34752 – 00100, Nairobi, Kenya</p>
+            <p className=''>+254 757 436 250</p>
+            <p className=''>info@beyondmatrix.co.ke</p>
+            
                 </div>
                 <form onSubmit={handleSubmit} className=" flex flex-col gap-4">
                     <h2 className="text-xl font-semibold">Contact Us</h2>

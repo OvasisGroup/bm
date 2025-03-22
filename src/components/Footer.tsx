@@ -13,6 +13,7 @@ export default function Footer() {
             <p className='text-white pt-2 text-center'>The Nextgen Mall, Mombasa Road</p>
             <p className='text-white pt-2 text-center'>P.O Box 34752 – 00100, Nairobi, Kenya</p>
             <p className='text-white pt-2 text-center font-bold pb-6'>+254 757 436 250</p>
+            <p className='text-white pt-2 text-center font-bold pb-6'>info@beyondmatrix.co.ke</p>
              <Image src='/SVG/bar.svg' alt='logo' width={1000} height={100} className='w-full opacity-15' />
             </div>
         </div>

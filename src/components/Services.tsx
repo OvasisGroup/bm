@@ -43,6 +43,7 @@ export default function Services() {
         </div>
         <div className='my-10'>
             <div className='grid md:grid-cols-3 justify-start items-start gap-6'>
+            
                 {ServicesList.map((service) => (
                     <div key={service.id} className='h-55 shadow-none bg-blue-50 rounded-2xl p-6 flex flex-col items-start justify-start'>
                         <div className=''>
@@ -50,7 +51,9 @@ export default function Services() {
                             <h3 className='font-bold text-xl mt-8'>{service.title}</h3>
                         </div>
                     </div>
+                    
                 ))}
+                
                 <div className='h-55 shadow-none bg-[url("/construction-works.jpg")] bg-cover bg-center rounded-2xl'></div>
             </div>
             </div>
