@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import Link from 'next/link'
 
 const ServicesList = [
     {
@@ -45,13 +46,14 @@ export default function Services() {
             <div className='grid md:grid-cols-3 justify-start items-start gap-6'>
             
                 {ServicesList.map((service) => (
-                    <div key={service.id} className='h-55 shadow-none bg-blue-50 rounded-2xl p-6 flex flex-col items-start justify-start'>
+                    <Link key={service.id} href={`/services/${service.id}`}>
+                    <div className='h-55 shadow-none bg-blue-50 rounded-2xl p-6 flex flex-col items-start justify-start'>
                         <div className=''>
                             <Image src={service.image} width={100} height={60} alt="construction" className='mt-6'/>
                             <h3 className='font-bold text-xl mt-8'>{service.title}</h3>
                         </div>
                     </div>
-                    
+                    </Link>
                 ))}
                 
                 <div className='h-55 shadow-none bg-[url("/construction-works.jpg")] bg-cover bg-center rounded-2xl'></div>
