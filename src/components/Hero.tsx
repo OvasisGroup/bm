@@ -3,6 +3,7 @@ import React from 'react'
 import { Button } from './ui/button'
 import { motion } from "framer-motion"
 import { DownloadCloudIcon } from 'lucide-react'
+import Link from 'next/link'
 
 export default function Hero() {
   return (
@@ -15,7 +16,7 @@ export default function Hero() {
             >
                 <h1 className='text-secondary font-light md:text-primary md:text-5xl text-center md:text-left text-4xl px-6 md:px-0'>Specialised solutions in Construction, Engineering & ICT infrastructure</h1>
                 <p className='md:text-xl font-light mt-6 md:text-black px-6 md:px-0 text-center md:text-left'>At Beyond Matrix Ltd, innovation and professionalism underpin our business, there is no project too small, large or complex for us to execute.</p>
-                <div className='flex justify-center items-center md:items-start md:justify-start'><Button className='mt-4 bg-secondary text-primary hover:bg-primary hover:text-secondary p-6 font-bold'><DownloadCloudIcon/> Download Company Profile</Button></div>
+                <div className='flex justify-center items-center md:items-start md:justify-start'><Link href="/bm-profile.pdf"><Button className='mt-4 cursor-pointer bg-secondary text-primary hover:bg-primary hover:text-secondary p-6 font-bold'><DownloadCloudIcon/> Download Company Profile</Button></Link></div>
             </motion.div>
             <div></div>
         </div>

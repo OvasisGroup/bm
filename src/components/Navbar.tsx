@@ -2,8 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
-import { Button } from './ui/button';
-import { AlignJustify, ArrowUpRight } from 'lucide-react';
+import { AlignJustify } from 'lucide-react';
 import Image from 'next/image';
 
 const Navbar = () => {
@@ -40,6 +39,9 @@ useEffect(() => {
           <Link href="/services" className="text-primary">
             Services
           </Link>
+          <Link href="/partners" className="text-primary">
+            Partners
+          </Link>
           <Link href="/contacts" className="text-primary">
             Contacts
           </Link>
@@ -49,21 +51,21 @@ useEffect(() => {
         </button>
       </div>
       {isOpen && (
-        <div className="md:hidden bg-white shadow-md p-4">
-          <Link href="/" className="block flex flex-row justify-between text-gray-900 hover:text-amber-400 font-bold mb-4 border-b-1 py-2">
-            Home <ArrowUpRight className='text-amber-400'/>
+        <div className="md:hidden bg-white my-10 flex flex-col space-y-4 border-b-4 border-secondary">
+           <Link href="/" className="text-primary border-b-1 pb-2">
+            Home
           </Link>
-          <Link href="/about" className=" block flex flex-row justify-between text-gray-900 hover:text-amber-400 font-bold mb-4 border-b-1 py-2">
-            About <ArrowUpRight className='text-amber-400'/>
+          <Link href="/about" className="text-primary border-b-1 pb-2">
+            About
           </Link>
-          <Link href="/services" className="block flex flex-row justify-between text-gray-900 hover:text-amber-400 font-bold mb-4 border-b-1 py-2">
-            Services <ArrowUpRight className='text-amber-400'/>
+          <Link href="/services" className="text-primary border-b-1 pb-2">
+            Services
           </Link>
-          <Link href="/contacts" className="block flex flex-row justify-between text-gray-900 hover:text-amber-400 font-bold mb-4 border-b-1 py-2">
-            Contacts <ArrowUpRight className='text-amber-400'/>
+          <Link href="/partners" className="text-primary border-b-1 pb-2">
+            Partners
           </Link>
-          <Link href="/dashboard" className="block flex flex-row justify-between text-gray-700 hover:text-blue-500">
-          <Button className='w-full border-2 border-amber-400 bg-teal-800 hover:bg-white text-black cursor-pointer p-6 font-bold'>Get Started <ArrowUpRight/></Button>
+          <Link href="/contacts" className="text-primary border-b-1 pb-2">
+            Contacts
           </Link>
         </div>
       )}
