@@ -58,8 +58,8 @@ export default function ContactForm() {
                     
             <p className=''>The Nextgen Mall, Mombasa Road</p>
             <p className=''>P.O Box 34752 – 00100, Nairobi, Kenya</p>
-            <p className=''>+254 757 436 250</p>
-            <p className=''>info@beyondmatrix.co.ke</p>
+            <p className=''>+254 757 435 210</p>
+            <p className=''>info@beyondmatrixltd.co.ke</p>
             
                 </div>
                 <form onSubmit={handleSubmit} className=" flex flex-col gap-4">
