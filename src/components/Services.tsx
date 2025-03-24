@@ -47,7 +47,7 @@ export default function Services() {
             
                 {ServicesList.map((service) => (
                     <Link key={service.id} href={`/services/${service.id}`}>
-                    <div className='h-55 shadow-none bg-blue-50 rounded-2xl p-6 flex flex-col items-start justify-start'>
+                    <div className='h-55 shadow-none bg-blue-50 hover:bg-amber-50 rounded-2xl p-6 flex flex-col items-start justify-start'>
                         <div className=''>
                             <Image src={service.image} width={100} height={60} alt="construction" className='mt-6'/>
                             <h3 className='font-bold text-xl mt-8'>{service.title}</h3>
